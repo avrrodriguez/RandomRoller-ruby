@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Abraham V Rodriguez"]
   spec.email = ["pqavrr835@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
+  spec.summary = "RandomRoller has a number of methods for games that are based on randomness. It has a coin flipper, choosing a card from a deck, dice roller, and gives you lotto numbers."
   spec.description = "TODO: Write a longer description or delete this line."
   spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.license = "MIT"
