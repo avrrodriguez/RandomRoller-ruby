@@ -9,7 +9,6 @@ Gem::Specification.new do |spec|
   spec.email = ["pqavrr835@gmail.com"]
 
   spec.summary = "RandomRoller has a number of methods for games that are based on randomness. It has a coin flipper, choosing a card from a deck, dice roller, and gives you lotto numbers."
-  spec.description = "TODO: Write a longer description or delete this line."
   spec.homepage = "https://github.com/avrrodriguez/RandomRoller-ruby.git"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
@@ -18,7 +17,6 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/avrrodriguez/RandomRoller-ruby.git"
-  spec.metadata["changelog_uri"] = "CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
